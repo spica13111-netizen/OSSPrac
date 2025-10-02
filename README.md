@@ -2,6 +2,4 @@
 # MLAC
 Machine Learning Access Control
 
-Machine Learning Access Control example
-
-Written by Kilsup Lee
+MLAC example
